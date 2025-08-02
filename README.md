@@ -60,7 +60,7 @@ This script performs the following:
 * Do **not** run the `.R` script directly from within the zipped folder. The script will not be able to access files.
 * If testing the `.R` file manually:
 
-  * Unzip to a known location like `Desktop`.
+  * Unzip (extract all files) to a known location like `Desktop or Document`.
   * Open RStudio 
   * Set the working directory using `setwd()` if needed.
   * Run the script.
